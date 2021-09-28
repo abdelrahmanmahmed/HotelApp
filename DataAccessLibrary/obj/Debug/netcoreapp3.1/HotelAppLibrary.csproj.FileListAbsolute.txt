@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.deps.json
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.dll
+C:\Users\Windows10\source\repos\HotelApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\HotelAppLibrary.pdb
