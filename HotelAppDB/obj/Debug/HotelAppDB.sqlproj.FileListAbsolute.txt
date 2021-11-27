@@ -1,6 +1,9 @@
 C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
 C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
 C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
-C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
 C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
 C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
+C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\Model.xml
+C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\refactor.xml
+C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
+C:\Users\Windows10\source\repos\HotelApp\HotelAppDB\obj\Debug\predeploy.sql
